@@ -63,7 +63,7 @@
     ],
     "telegram": {
         "enabled": true,
-        "token": "8637253561:AAH4hg02TIncZiKv-TbKKyQuFbxgXhOwtlg",
+        "token": "",
         "chat_id": "luisfsalazar"
     },
     "api_server": {
